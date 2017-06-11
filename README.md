@@ -1,2 +1,2 @@
 # git-test-anypoint-studio
-Testing connection with Anypointstudio
+Testing github connection with Anypointstudio
